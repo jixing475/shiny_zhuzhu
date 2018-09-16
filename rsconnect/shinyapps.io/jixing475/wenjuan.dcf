@@ -1,0 +1,13 @@
+name: wenjuan
+title: wenjuan
+username:
+account: jixing475
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 446109
+bundleId: 1586005
+url: https://jixing475.shinyapps.io/wenjuan/
+when: 1536944266.51888
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: txt_data/zhuzhu 1.txt|txt_data/zhuzhu 2.txt|txt_data/zhuzhu 3.txt|txt_data/zhuzhu 4.txt

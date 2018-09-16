@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1536933198824.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2904384778",
+    "id" : "2968DECF",
+    "lastKnownWriteTime" : 1536973286,
+    "last_content_update" : 1536973286880,
+    "path" : "~/Desktop/zhuzhu/module.R",
+    "project_path" : "module.R",
+    "properties" : {
+        "cursorPosition" : "136,42",
+        "docOutlineVisible" : "1",
+        "scrollLine" : "132"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
